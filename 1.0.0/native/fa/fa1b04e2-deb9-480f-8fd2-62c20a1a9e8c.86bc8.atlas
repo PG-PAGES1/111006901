@@ -1,0 +1,125 @@
+
+hover.jpg
+size: 900,894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_click/sb_glow_00
+  rotate: false
+  xy: 565, 308
+  size: 83, 84
+  orig: 269, 216
+  offset: 96, 74
+  index: -1
+sb_click/sb_glow_01
+  rotate: false
+  xy: 542, 394
+  size: 123, 122
+  orig: 269, 216
+  offset: 74, 55
+  index: -1
+sb_click/sb_glow_02
+  rotate: false
+  xy: 733, 746
+  size: 147, 146
+  orig: 269, 216
+  offset: 62, 46
+  index: -1
+sb_click/sb_glow_03
+  rotate: true
+  xy: 709, 9
+  size: 167, 170
+  orig: 269, 216
+  offset: 54, 34
+  index: -1
+sb_click/sb_glow_04
+  rotate: false
+  xy: 721, 522
+  size: 177, 176
+  orig: 269, 216
+  offset: 49, 29
+  index: -1
+sb_click/sb_glow_05
+  rotate: false
+  xy: 2, 192
+  size: 197, 192
+  orig: 269, 216
+  offset: 38, 21
+  index: -1
+sb_click/sb_glow_06
+  rotate: false
+  xy: 364, 20
+  size: 175, 176
+  orig: 269, 216
+  offset: 49, 29
+  index: -1
+sb_click/sb_glow_07
+  rotate: false
+  xy: 2, 2
+  size: 185, 188
+  orig: 269, 216
+  offset: 44, 23
+  index: -1
+sb_click/sb_glow_08
+  rotate: false
+  xy: 542, 518
+  size: 177, 180
+  orig: 269, 216
+  offset: 48, 27
+  index: -1
+sb_click/sb_glow_09
+  rotate: true
+  xy: 541, 31
+  size: 171, 166
+  orig: 269, 216
+  offset: 51, 34
+  index: -1
+sb_click/sb_glow_10
+  rotate: false
+  xy: 709, 178
+  size: 171, 168
+  orig: 269, 216
+  offset: 51, 33
+  index: -1
+sb_click/sb_glow_11
+  rotate: false
+  xy: 721, 348
+  size: 177, 172
+  orig: 269, 216
+  offset: 48, 31
+  index: -1
+sb_click/sb_glow_12
+  rotate: false
+  xy: 201, 198
+  size: 185, 186
+  orig: 269, 216
+  offset: 44, 25
+  index: -1
+sb_click/sb_glow_13
+  rotate: false
+  xy: 542, 700
+  size: 189, 192
+  orig: 269, 216
+  offset: 42, 22
+  index: -1
+sb_click/sb_glow_14
+  rotate: false
+  xy: 388, 204
+  size: 175, 180
+  orig: 269, 216
+  offset: 49, 26
+  index: -1
+sb_click/sb_glow_15
+  rotate: false
+  xy: 189, 12
+  size: 173, 178
+  orig: 269, 216
+  offset: 45, 23
+  index: -1
+sb_hover_light/sb_hover
+  rotate: false
+  xy: 2, 386
+  size: 538, 506
+  orig: 538, 506
+  offset: 0, 0
+  index: -1

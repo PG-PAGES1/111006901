@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1749,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mtp_tb_light/ib_slash_00
+  rotate: false
+  xy: 0, 519
+  size: 3, 3
+  orig: 540, 121
+  offset: 0, 118
+  index: -1
+mtp_tb_light/ib_slash_01
+  rotate: false
+  xy: 5, 461
+  size: 152, 61
+  orig: 540, 121
+  offset: 45, 37
+  index: -1
+mtp_tb_light/ib_slash_02
+  rotate: false
+  xy: 159, 431
+  size: 430, 91
+  orig: 540, 121
+  offset: 46, 11
+  index: -1
+mtp_tb_light/ib_slash_03
+  rotate: false
+  xy: 591, 431
+  size: 490, 91
+  orig: 540, 121
+  offset: 45, 11
+  index: -1
+mtp_tb_light/ib_slash_04
+  rotate: false
+  xy: 1083, 431
+  size: 490, 91
+  orig: 540, 121
+  offset: 45, 11
+  index: -1
+mtp_tb_light/ib_slash_05
+  rotate: false
+  xy: 0, 117
+  size: 540, 109
+  orig: 540, 121
+  offset: 0, 10
+  index: -1
+mtp_tb_light/ib_slash_06
+  rotate: false
+  xy: 0, 4
+  size: 540, 111
+  orig: 540, 121
+  offset: 0, 10
+  index: -1
+mtp_tb_light/ib_slash_07
+  rotate: false
+  xy: 542, 4
+  size: 540, 111
+  orig: 540, 121
+  offset: 0, 10
+  index: -1
+mtp_tb_light/ib_slash_08
+  rotate: false
+  xy: 1084, 0
+  size: 540, 111
+  orig: 540, 121
+  offset: 0, 10
+  index: -1
+mtp_tb_light/ib_slash_09
+  rotate: false
+  xy: 542, 117
+  size: 540, 109
+  orig: 540, 121
+  offset: 0, 11
+  index: -1
+mtp_tb_light/ib_slash_10
+  rotate: false
+  xy: 1084, 113
+  size: 540, 109
+  orig: 540, 121
+  offset: 0, 11
+  index: -1
+mtp_tb_light/ib_slash_11
+  rotate: false
+  xy: 1084, 224
+  size: 540, 107
+  orig: 540, 121
+  offset: 0, 13
+  index: -1
+mtp_tb_light/ib_slash_12
+  rotate: false
+  xy: 0, 228
+  size: 540, 103
+  orig: 540, 121
+  offset: 0, 13
+  index: -1
+mtp_tb_light/ib_slash_13
+  rotate: false
+  xy: 542, 228
+  size: 540, 103
+  orig: 540, 121
+  offset: 0, 13
+  index: -1
+tb_part/ib_bar_a
+  rotate: false
+  xy: 0, 333
+  size: 756, 96
+  orig: 756, 96
+  offset: 0, 0
+  index: -1
+tb_part/ib_bar_b
+  rotate: false
+  xy: 758, 333
+  size: 756, 96
+  orig: 756, 96
+  offset: 0, 0
+  index: -1
+tb_part/ib_sweep
+  rotate: true
+  xy: 1626, 184
+  size: 338, 123
+  orig: 338, 123
+  offset: 0, 0
+  index: -1

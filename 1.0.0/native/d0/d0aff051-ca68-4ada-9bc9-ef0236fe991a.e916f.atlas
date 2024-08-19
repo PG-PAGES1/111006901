@@ -1,0 +1,230 @@
+
+renzhe-wuxing.png
+size: 1857,1496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+five_kind_elec/fivekind_elec_blue_00
+  rotate: false
+  xy: 1229, 168
+  size: 349, 125
+  orig: 435, 219
+  offset: 5, 43
+  index: -1
+five_kind_elec/fivekind_elec_blue_01
+  rotate: false
+  xy: 840, 22
+  size: 383, 147
+  orig: 435, 219
+  offset: 1, 30
+  index: -1
+five_kind_elec/fivekind_elec_blue_02
+  rotate: false
+  xy: 1282, 466
+  size: 381, 175
+  orig: 435, 219
+  offset: 4, 10
+  index: -1
+five_kind_elec/fivekind_elec_blue_03
+  rotate: false
+  xy: 1264, 295
+  size: 381, 169
+  orig: 435, 219
+  offset: 10, 1
+  index: -1
+five_kind_elec/fivekind_elec_blue_04
+  rotate: false
+  xy: 840, 171
+  size: 387, 183
+  orig: 435, 219
+  offset: 12, 7
+  index: -1
+five_kind_elec/fivekind_elec_blue_05
+  rotate: true
+  xy: 1696, 627
+  size: 299, 149
+  orig: 435, 219
+  offset: 97, 27
+  index: -1
+five_kind_elec/fivekind_elec_blue_06
+  rotate: false
+  xy: 1225, 13
+  size: 305, 153
+  orig: 435, 219
+  offset: 110, 31
+  index: -1
+five_kind_elec/fivekind_elec_blue_07
+  rotate: true
+  xy: 1665, 362
+  size: 263, 149
+  orig: 435, 219
+  offset: 123, 37
+  index: -1
+five_kind_elec/fivekind_elec_blue_08
+  rotate: true
+  xy: 1580, 0
+  size: 293, 125
+  orig: 435, 219
+  offset: 125, 43
+  index: -1
+five_kind_elec/fivekind_elec_blue_09
+  rotate: false
+  xy: 0, 58
+  size: 3, 3
+  orig: 435, 219
+  offset: 1, 216
+  index: -1
+five_kind_elec/fivekind_elec_blue_11
+  rotate: false
+  xy: 0, 58
+  size: 3, 3
+  orig: 435, 219
+  offset: 1, 216
+  index: -1
+five_kind_elec/fivekind_elec_blue_13
+  rotate: false
+  xy: 0, 58
+  size: 3, 3
+  orig: 435, 219
+  offset: 1, 216
+  index: -1
+five_kind_elec/fivekind_elec_blue_10
+  rotate: true
+  xy: 1724, 1205
+  size: 291, 129
+  orig: 435, 219
+  offset: 139, 54
+  index: -1
+five_kind_elec/fivekind_elec_blue_12
+  rotate: false
+  xy: 1718, 1064
+  size: 139, 139
+  orig: 435, 219
+  offset: 296, 51
+  index: -1
+five_kind_elec/fivekind_elec_blue_14
+  rotate: false
+  xy: 1718, 929
+  size: 113, 133
+  orig: 435, 219
+  offset: 322, 56
+  index: -1
+fivekind_light/fivekind_glow_00
+  rotate: false
+  xy: 0, 63
+  size: 422, 285
+  orig: 540, 299
+  offset: 57, 7
+  index: -1
+fivekind_light/fivekind_glow_01
+  rotate: false
+  xy: 0, 350
+  size: 426, 285
+  orig: 540, 299
+  offset: 55, 7
+  index: -1
+fivekind_light/fivekind_glow_02
+  rotate: false
+  xy: 864, 928
+  size: 426, 283
+  orig: 540, 299
+  offset: 55, 9
+  index: -1
+fivekind_light/fivekind_glow_03
+  rotate: false
+  xy: 1296, 1213
+  size: 426, 283
+  orig: 540, 299
+  offset: 55, 9
+  index: -1
+fivekind_light/fivekind_glow_04
+  rotate: false
+  xy: 1292, 928
+  size: 424, 283
+  orig: 540, 299
+  offset: 55, 8
+  index: -1
+fivekind_light/fivekind_glow_05
+  rotate: false
+  xy: 0, 637
+  size: 430, 283
+  orig: 540, 299
+  offset: 52, 9
+  index: -1
+fivekind_light/fivekind_glow_06
+  rotate: false
+  xy: 432, 641
+  size: 428, 283
+  orig: 540, 299
+  offset: 51, 8
+  index: -1
+fivekind_light/fivekind_glow_07
+  rotate: false
+  xy: 0, 1209
+  size: 430, 287
+  orig: 540, 299
+  offset: 50, 6
+  index: -1
+fivekind_light/fivekind_glow_08
+  rotate: false
+  xy: 0, 922
+  size: 430, 285
+  orig: 540, 299
+  offset: 51, 7
+  index: -1
+fivekind_light/fivekind_glow_09
+  rotate: false
+  xy: 432, 1211
+  size: 430, 285
+  orig: 540, 299
+  offset: 50, 7
+  index: -1
+fivekind_light/fivekind_glow_10
+  rotate: false
+  xy: 432, 926
+  size: 430, 283
+  orig: 540, 299
+  offset: 50, 9
+  index: -1
+fivekind_light/fivekind_glow_11
+  rotate: false
+  xy: 864, 1213
+  size: 430, 283
+  orig: 540, 299
+  offset: 50, 8
+  index: -1
+fivekind_light/fivekind_glow_12
+  rotate: false
+  xy: 428, 73
+  size: 410, 281
+  orig: 540, 299
+  offset: 62, 9
+  index: -1
+fivekind_light/fivekind_glow_13
+  rotate: false
+  xy: 852, 356
+  size: 410, 283
+  orig: 540, 299
+  offset: 62, 8
+  index: -1
+fivekind_light/fivekind_glow_14
+  rotate: false
+  xy: 1282, 643
+  size: 412, 283
+  orig: 540, 299
+  offset: 62, 8
+  index: -1
+fivekind_light/fivekind_glow_15
+  rotate: false
+  xy: 864, 641
+  size: 416, 285
+  orig: 540, 299
+  offset: 61, 7
+  index: -1
+fivekind_light/fivekind_glow_16
+  rotate: false
+  xy: 432, 356
+  size: 418, 283
+  orig: 540, 299
+  offset: 59, 8
+  index: -1

@@ -1,0 +1,775 @@
+
+bg_samurai.png
+size: 945,1159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p001_base_core
+  rotate: false
+  xy: 313, 937
+  size: 326, 220
+  orig: 326, 220
+  offset: 0, 0
+  index: -1
+p001_bicep_R
+  rotate: false
+  xy: 581, 788
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+p001_bicep_arm_R
+  rotate: false
+  xy: 845, 817
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+p001_fore_R
+  rotate: false
+  xy: 197, 272
+  size: 129, 185
+  orig: 129, 185
+  offset: 0, 0
+  index: -1
+p001_shou_R
+  rotate: false
+  xy: 95, 56
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+p002_base_core
+  rotate: false
+  xy: 2, 916
+  size: 309, 241
+  orig: 309, 241
+  offset: 0, 0
+  index: -1
+p002_bicep_R
+  rotate: false
+  xy: 506, 363
+  size: 107, 180
+  orig: 107, 180
+  offset: 0, 0
+  index: -1
+p002_fore_R
+  rotate: false
+  xy: 370, 34
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+p002_scab
+  rotate: false
+  xy: 741, 347
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+p002_shou_L
+  rotate: false
+  xy: 305, 679
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+p002_sword
+  rotate: false
+  xy: 145, 112
+  size: 50, 288
+  orig: 50, 288
+  offset: 0, 0
+  index: -1
+p003_base_core
+  rotate: false
+  xy: 2, 679
+  size: 301, 235
+  orig: 301, 235
+  offset: 0, 0
+  index: -1
+p003_bicep_R
+  rotate: false
+  xy: 333, 391
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+p003_fore_R
+  rotate: false
+  xy: 761, 223
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+p003_scab
+  rotate: false
+  xy: 673, 18
+  size: 79, 130
+  orig: 79, 130
+  offset: 0, 0
+  index: -1
+p003_shou_L
+  rotate: false
+  xy: 927, 314
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+p003_sword
+  rotate: false
+  xy: 847, 917
+  size: 92, 240
+  orig: 92, 240
+  offset: 0, 0
+  index: -1
+pi_bicep_L
+  rotate: false
+  xy: 95, 4
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+pi_bicep_R
+  rotate: false
+  xy: 2, 402
+  size: 158, 275
+  orig: 158, 275
+  offset: 0, 0
+  index: -1
+pi_bicep_arm_R
+  rotate: false
+  xy: 370, 103
+  size: 106, 206
+  orig: 106, 206
+  offset: 0, 0
+  index: -1
+pi_body
+  rotate: false
+  xy: 2, 160
+  size: 141, 240
+  orig: 141, 240
+  offset: 0, 0
+  index: -1
+pi_ewhite_L
+  rotate: false
+  xy: 650, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+pi_ewhite_R
+  rotate: false
+  xy: 546, 746
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+pi_eyelids_L
+  rotate: false
+  xy: 162, 407
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+pi_eyelids_R
+  rotate: false
+  xy: 171, 10
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+pi_fore_L
+  rotate: false
+  xy: 858, 88
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+pi_fore_R
+  rotate: false
+  xy: 792, 88
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+pi_helm_ear_L
+  rotate: false
+  xy: 313, 807
+  size: 266, 128
+  orig: 266, 128
+  offset: 0, 0
+  index: -1
+pi_helm_ear_R
+  rotate: false
+  xy: 851, 540
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+pi_helm_fb
+  rotate: false
+  xy: 467, 65
+  size: 9, 36
+  orig: 9, 36
+  offset: 0, 0
+  index: -1
+pi_helm_ft
+  rotate: false
+  xy: 734, 582
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+pi_helm_horn
+  rotate: false
+  xy: 563, 150
+  size: 88, 159
+  orig: 88, 159
+  offset: 0, 0
+  index: -1
+pi_helm_horn_R
+  rotate: false
+  xy: 516, 545
+  size: 86, 191
+  orig: 86, 191
+  offset: 0, 0
+  index: -1
+pi_helm_top
+  rotate: false
+  xy: 604, 657
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+pi_legs
+  rotate: false
+  xy: 641, 966
+  size: 204, 191
+  orig: 204, 191
+  offset: 0, 0
+  index: -1
+pi_mask
+  rotate: false
+  xy: 478, 2
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+pi_mouth
+  rotate: false
+  xy: 792, 40
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+pi_pup_L
+  rotate: false
+  xy: 867, 223
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+pi_pup_R
+  rotate: false
+  xy: 604, 571
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+pi_scab_b
+  rotate: false
+  xy: 761, 196
+  size: 133, 25
+  orig: 133, 25
+  offset: 0, 0
+  index: -1
+pi_scab_f
+  rotate: false
+  xy: 171, 37
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+pi_scb_bb
+  rotate: false
+  xy: 933, 510
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+pi_sword_R
+  rotate: false
+  xy: 734, 604
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+pi_sword_b
+  rotate: false
+  xy: 641, 945
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+pi_teeth_R
+  rotate: false
+  xy: 284, 62
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+ps_bicep_L
+  rotate: false
+  xy: 734, 669
+  size: 116, 136
+  orig: 116, 136
+  offset: 0, 0
+  index: -1
+ps_bicep_R
+  rotate: false
+  xy: 604, 582
+  size: 128, 73
+  orig: 128, 73
+  offset: 0, 0
+  index: -1
+ps_bicep_arm_R
+  rotate: false
+  xy: 491, 311
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+ps_body
+  rotate: false
+  xy: 162, 459
+  size: 169, 218
+  orig: 169, 218
+  offset: 0, 0
+  index: -1
+ps_chest_R
+  rotate: false
+  xy: 2, 2
+  size: 91, 156
+  orig: 91, 156
+  offset: 0, 0
+  index: -1
+ps_elids_L
+  rotate: false
+  xy: 162, 434
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+ps_elids_R
+  rotate: false
+  xy: 811, 446
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+ps_ewhite_L
+  rotate: false
+  xy: 563, 137
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+ps_ewhite_R
+  rotate: false
+  xy: 624, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+ps_fore_L
+  rotate: false
+  xy: 867, 233
+  size: 58, 120
+  orig: 58, 120
+  offset: 0, 0
+  index: -1
+ps_fore_R
+  rotate: false
+  xy: 653, 150
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+ps_helm_b
+  rotate: false
+  xy: 305, 738
+  size: 239, 67
+  orig: 239, 67
+  offset: 0, 0
+  index: -1
+ps_helm_ear_L
+  rotate: false
+  xy: 851, 420
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+ps_helm_ear_R
+  rotate: false
+  xy: 590, 17
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+ps_helm_top
+  rotate: false
+  xy: 615, 340
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+ps_helmb_L
+  rotate: false
+  xy: 580, 744
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+ps_helmb_R
+  rotate: false
+  xy: 754, 14
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+ps_horns
+  rotate: false
+  xy: 852, 666
+  size: 85, 149
+  orig: 85, 149
+  offset: 0, 0
+  index: -1
+ps_horns_R
+  rotate: false
+  xy: 478, 127
+  size: 83, 182
+  orig: 83, 182
+  offset: 0, 0
+  index: -1
+ps_mask
+  rotate: false
+  xy: 653, 210
+  size: 106, 128
+  orig: 106, 128
+  offset: 0, 0
+  index: -1
+ps_mouth
+  rotate: false
+  xy: 865, 44
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+ps_mouthb
+  rotate: false
+  xy: 243, 49
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+ps_nrope_01_L
+  rotate: false
+  xy: 590, 2
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+ps_nrope_01_R
+  rotate: false
+  xy: 673, 2
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+ps_nrope_02_L
+  rotate: false
+  xy: 927, 273
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+ps_nrope_02_R
+  rotate: false
+  xy: 771, 456
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+ps_nrope_03_L
+  rotate: false
+  xy: 328, 272
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+ps_nrope_03_R
+  rotate: false
+  xy: 896, 196
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+ps_nrope_L
+  rotate: false
+  xy: 546, 763
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+ps_nrope_R
+  rotate: false
+  xy: 144, 82
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+ps_scab
+  rotate: false
+  xy: 328, 311
+  size: 161, 78
+  orig: 161, 78
+  offset: 0, 0
+  index: -1
+ps_shou_R
+  rotate: false
+  xy: 754, 58
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1
+ps_slash_00
+  rotate: false
+  xy: 144, 65
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ps_slash_01
+  rotate: false
+  xy: 865, 3
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+ps_slash_02
+  rotate: false
+  xy: 615, 456
+  size: 154, 124
+  orig: 154, 124
+  offset: 0, 0
+  index: -1
+ps_slash_03
+  rotate: false
+  xy: 333, 553
+  size: 181, 183
+  orig: 181, 183
+  offset: 0, 0
+  index: -1
+ps_slash_04
+  rotate: false
+  xy: 197, 80
+  size: 171, 190
+  orig: 171, 190
+  offset: 0, 0
+  index: -1
+ps_slash_05
+  rotate: false
+  xy: 732, 807
+  size: 111, 157
+  orig: 111, 157
+  offset: 0, 0
+  index: -1
+ps_slash_06
+  rotate: false
+  xy: 771, 473
+  size: 78, 129
+  orig: 78, 129
+  offset: 0, 0
+  index: -1
+ps_sword_R
+  rotate: false
+  xy: 760, 153
+  size: 123, 41
+  orig: 123, 41
+  offset: 0, 0
+  index: -1
+ps_teeth_b
+  rotate: false
+  xy: 885, 179
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+ps_teeth_t
+  rotate: false
+  xy: 696, 954
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+ps_tongue
+  rotate: false
+  xy: 696, 937
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+ps_waist
+  rotate: false
+  xy: 804, 355
+  size: 137, 63
+  orig: 137, 63
+  offset: 0, 0
+  index: -1
+
+bg_samurai2.png
+size: 982,422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bg_sam_speedlines/samuraispeedline_00
+  rotate: false
+  xy: 2, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_01
+  rotate: false
+  xy: 2, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_02
+  rotate: false
+  xy: 142, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_03
+  rotate: false
+  xy: 2, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_04
+  rotate: false
+  xy: 142, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_05
+  rotate: false
+  xy: 282, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_06
+  rotate: false
+  xy: 142, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_07
+  rotate: false
+  xy: 282, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_08
+  rotate: false
+  xy: 422, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_09
+  rotate: false
+  xy: 282, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_10
+  rotate: false
+  xy: 422, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_11
+  rotate: false
+  xy: 562, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_12
+  rotate: false
+  xy: 422, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_13
+  rotate: false
+  xy: 562, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_14
+  rotate: false
+  xy: 702, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_15
+  rotate: false
+  xy: 562, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_16
+  rotate: false
+  xy: 702, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_17
+  rotate: false
+  xy: 842, 282
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_18
+  rotate: false
+  xy: 702, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fx_bg_sam_speedlines/samuraispeedline_19
+  rotate: false
+  xy: 842, 142
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1

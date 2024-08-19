@@ -1,0 +1,90 @@
+
+wushidaoguang.png
+size: 2007,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_slash/ps_slash_00
+  rotate: true
+  xy: 1316, 26
+  size: 144, 195
+  orig: 540, 555
+  offset: 1, 324
+  index: -1
+win_slash_01/ps_slash_00
+  rotate: true
+  xy: 1316, 26
+  size: 144, 195
+  orig: 540, 555
+  offset: 1, 324
+  index: -1
+win_slash/ps_slash_01
+  rotate: false
+  xy: 1635, 285
+  size: 368, 299
+  orig: 540, 555
+  offset: 1, 256
+  index: -1
+win_slash_01/ps_slash_01
+  rotate: false
+  xy: 1635, 285
+  size: 368, 299
+  orig: 540, 555
+  offset: 1, 256
+  index: -1
+win_slash/ps_slash_02
+  rotate: false
+  xy: 0, 29
+  size: 540, 555
+  orig: 540, 555
+  offset: 0, 0
+  index: -1
+win_slash_01/ps_slash_02
+  rotate: false
+  xy: 0, 29
+  size: 540, 555
+  orig: 540, 555
+  offset: 0, 0
+  index: -1
+win_slash/ps_slash_03
+  rotate: false
+  xy: 542, 81
+  size: 430, 503
+  orig: 540, 555
+  offset: 110, 1
+  index: -1
+win_slash_01/ps_slash_03
+  rotate: false
+  xy: 542, 81
+  size: 430, 503
+  orig: 540, 555
+  offset: 110, 1
+  index: -1
+win_slash/ps_slash_04
+  rotate: false
+  xy: 974, 145
+  size: 340, 439
+  orig: 540, 555
+  offset: 179, 1
+  index: -1
+win_slash_01/ps_slash_04
+  rotate: false
+  xy: 974, 145
+  size: 340, 439
+  orig: 540, 555
+  offset: 179, 1
+  index: -1
+win_slash_01/ps_slash_05
+  rotate: false
+  xy: 1316, 172
+  size: 317, 412
+  orig: 435, 464
+  offset: 118, 1
+  index: -1
+win_slash_01/ps_slash_06
+  rotate: true
+  xy: 1635, 0
+  size: 283, 372
+  orig: 435, 464
+  offset: 147, 1
+  index: -1

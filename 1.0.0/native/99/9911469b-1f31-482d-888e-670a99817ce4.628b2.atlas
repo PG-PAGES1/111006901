@@ -1,0 +1,104 @@
+
+ninja_action.png
+size: 1208,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mg_ninja/bg_ninja_jump_00
+  rotate: true
+  xy: 894, 592
+  size: 226, 274
+  orig: 756, 558
+  offset: 506, 284
+  index: -1
+mg_ninja/bg_ninja_jump_01
+  rotate: true
+  xy: 2, 363
+  size: 250, 399
+  orig: 756, 558
+  offset: 398, 60
+  index: -1
+mg_ninja/bg_ninja_jump_02
+  rotate: true
+  xy: 659, 613
+  size: 205, 233
+  orig: 756, 558
+  offset: 328, 14
+  index: -1
+mg_ninja/bg_ninja_jump_03
+  rotate: false
+  xy: 199, 615
+  size: 229, 203
+  orig: 756, 558
+  offset: 312, 13
+  index: -1
+mg_ninja/bg_ninja_jump_04
+  rotate: false
+  xy: 430, 614
+  size: 227, 204
+  orig: 756, 558
+  offset: 313, 13
+  index: -1
+mg_ninja/bg_ninja_jump_05
+  rotate: false
+  xy: 430, 614
+  size: 227, 204
+  orig: 756, 558
+  offset: 313, 13
+  index: -1
+mg_ninja/bg_ninja_jump_06
+  rotate: false
+  xy: 430, 614
+  size: 227, 204
+  orig: 756, 558
+  offset: 313, 13
+  index: -1
+mg_ninja/bg_ninja_jump_07
+  rotate: false
+  xy: 430, 614
+  size: 227, 204
+  orig: 756, 558
+  offset: 313, 13
+  index: -1
+mg_ninja/bg_ninja_jump_08
+  rotate: true
+  xy: 403, 339
+  size: 272, 354
+  orig: 756, 558
+  offset: 100, 151
+  index: -1
+mg_ninja/bg_ninja_jump_09
+  rotate: true
+  xy: 2, 644
+  size: 174, 195
+  orig: 756, 558
+  offset: 0, 363
+  index: -1
+mg_ninja_01/bg_ninja_run_00
+  rotate: false
+  xy: 806, 2
+  size: 400, 301
+  orig: 400, 314
+  offset: 0, 1
+  index: -1
+mg_ninja_01/bg_ninja_run_01
+  rotate: false
+  xy: 2, 50
+  size: 400, 287
+  orig: 400, 314
+  offset: 0, 1
+  index: -1
+mg_ninja_01/bg_ninja_run_02
+  rotate: false
+  xy: 404, 4
+  size: 400, 299
+  orig: 400, 314
+  offset: 0, 1
+  index: -1
+mg_ninja_01/bg_ninja_run_03
+  rotate: false
+  xy: 759, 305
+  size: 400, 285
+  orig: 400, 314
+  offset: 0, 1
+  index: -1

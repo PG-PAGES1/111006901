@@ -1,0 +1,152 @@
+
+ninja  wushi mfks.png
+size: 1997,1917
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_start_bg/bload_bg_00
+  rotate: true
+  xy: 977, 1641
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_13
+  rotate: true
+  xy: 977, 1641
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_01
+  rotate: true
+  xy: 0, 1392
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_02
+  rotate: true
+  xy: 860, 1363
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_03
+  rotate: true
+  xy: 0, 1114
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_04
+  rotate: false
+  xy: 1720, 781
+  size: 277, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_05
+  rotate: true
+  xy: 0, 279
+  size: 277, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_06
+  rotate: true
+  xy: 860, 1085
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_07
+  rotate: true
+  xy: 860, 250
+  size: 277, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_08
+  rotate: true
+  xy: 0, 0
+  size: 277, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_09
+  rotate: true
+  xy: 0, 836
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_10
+  rotate: true
+  xy: 860, 807
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_11
+  rotate: true
+  xy: 0, 558
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_bg/bload_bg_12
+  rotate: true
+  xy: 860, 529
+  size: 276, 858
+  orig: 421, 913
+  offset: 73, 21
+  index: -1
+fs_start_part/bload_button_glow
+  rotate: false
+  xy: 582, 1670
+  size: 393, 247
+  orig: 393, 247
+  offset: 0, 0
+  index: -1
+fs_start_part/bload_loading
+  rotate: false
+  xy: 433, 1772
+  size: 147, 145
+  orig: 154, 151
+  offset: 4, 3
+  index: -1
+fs_start_part/btn
+  rotate: false
+  xy: 0, 1778
+  size: 431, 139
+  orig: 439, 146
+  offset: 4, 3
+  index: -1
+
+ninja  wushi mfks2.png
+size: 1369,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_bglight/tw_flare
+  rotate: true
+  xy: 0, 0
+  size: 540, 617
+  orig: 540, 617
+  offset: 0, 0
+  index: -1
+fs_start_part/bload_ninja
+  rotate: false
+  xy: 867, 83
+  size: 502, 950
+  orig: 507, 953
+  offset: 2, 1
+  index: -1
+fs_start_part/bload_samurai
+  rotate: true
+  xy: 0, 542
+  size: 491, 865
+  orig: 491, 865
+  offset: 0, 0
+  index: -1

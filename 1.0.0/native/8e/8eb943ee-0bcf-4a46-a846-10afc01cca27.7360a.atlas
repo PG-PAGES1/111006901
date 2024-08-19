@@ -1,0 +1,55 @@
+
+huaban.png
+size: 367,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mgbg_flower/bg_flower
+  rotate: true
+  xy: 154, 46
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+mgbg_flower/bg_flower_left_a
+  rotate: true
+  xy: 1, 270
+  size: 224, 193
+  orig: 247, 193
+  offset: 0, 0
+  index: -1
+mgbg_flower/bg_flower_left_b
+  rotate: false
+  xy: 1, 91
+  size: 216, 177
+  orig: 216, 177
+  offset: 0, 0
+  index: -1
+mgbg_flower/bg_flower_left_c
+  rotate: true
+  xy: 1, 1
+  size: 88, 151
+  orig: 90, 161
+  offset: 0, 0
+  index: -1
+mgbg_flower/bg_flower_right_a
+  rotate: false
+  xy: 196, 290
+  size: 160, 204
+  orig: 160, 204
+  offset: 0, 0
+  index: -1
+mgbg_flower/bg_flower_right_b
+  rotate: false
+  xy: 219, 108
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
+mgbg_flower/bg_flower_right_c
+  rotate: true
+  xy: 219, 19
+  size: 87, 120
+  orig: 87, 120
+  offset: 0, 0
+  index: -1

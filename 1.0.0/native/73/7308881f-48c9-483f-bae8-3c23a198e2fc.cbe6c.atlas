@@ -1,0 +1,83 @@
+
+Knife_light.jpg
+size: 1310,849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_slash/ps_slash_00
+  rotate: false
+  xy: 372, 110
+  size: 144, 195
+  orig: 540, 555
+  offset: 1, 324
+  index: -1
+win_slash_01/ps_slash_00
+  rotate: false
+  xy: 372, 110
+  size: 144, 195
+  orig: 540, 555
+  offset: 1, 324
+  index: -1
+win_slash/ps_slash_01
+  rotate: false
+  xy: 2, 6
+  size: 368, 299
+  orig: 540, 555
+  offset: 1, 256
+  index: -1
+win_slash_01/ps_slash_01
+  rotate: false
+  xy: 2, 6
+  size: 368, 299
+  orig: 540, 555
+  offset: 1, 256
+  index: -1
+win_slash/ps_slash_02
+  rotate: true
+  xy: 2, 307
+  size: 540, 555
+  orig: 540, 555
+  offset: 0, 0
+  index: -1
+win_slash_01/ps_slash_02
+  rotate: true
+  xy: 2, 307
+  size: 540, 555
+  orig: 540, 555
+  offset: 0, 0
+  index: -1
+win_slash/ps_slash_03
+  rotate: false
+  xy: 559, 344
+  size: 430, 503
+  orig: 540, 555
+  offset: 110, 1
+  index: -1
+win_slash_01/ps_slash_03
+  rotate: false
+  xy: 559, 344
+  size: 430, 503
+  orig: 540, 555
+  offset: 110, 1
+  index: -1
+win_slash/ps_slash_04
+  rotate: true
+  xy: 559, 2
+  size: 340, 439
+  orig: 540, 555
+  offset: 179, 1
+  index: -1
+win_slash_01/ps_slash_04
+  rotate: false
+  xy: 991, 435
+  size: 317, 412
+  orig: 435, 464
+  offset: 118, 1
+  index: -1
+win_slash_01/ps_slash_05
+  rotate: false
+  xy: 1000, 61
+  size: 283, 372
+  orig: 435, 464
+  offset: 147, 1
+  index: -1
